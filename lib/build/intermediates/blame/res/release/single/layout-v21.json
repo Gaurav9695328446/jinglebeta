@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/suneel/AndroidStudioProjects/AndroidSlidingUpPanelmaster/library/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/suneel/.android/build-cache/15df92d22b64ebeb4ddd2b15f5d58ee09c6d92ca/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/suneel/AndroidStudioProjects/AndroidSlidingUpPanelmaster/library/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/suneel/.android/build-cache/15df92d22b64ebeb4ddd2b15f5d58ee09c6d92ca/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/suneel/AndroidStudioProjects/AndroidSlidingUpPanelmaster/library/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/suneel/.android/build-cache/15df92d22b64ebeb4ddd2b15f5d58ee09c6d92ca/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/suneel/AndroidStudioProjects/AndroidSlidingUpPanelmaster/library/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/suneel/.android/build-cache/15df92d22b64ebeb4ddd2b15f5d58ee09c6d92ca/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
